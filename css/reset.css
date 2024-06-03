@@ -1,0 +1,42 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #ffffff;
+    color: #434455;
+}
+
+ul,
+li {
+    list-style-type: none;
+    padding-left: 0px;
+    margin: 0px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0px;
+}
+
+button {
+    cursor: pointer;
+    font-family: inherit;
+}
+
+address {
+    font-style: normal;
+}
+
+img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+}
