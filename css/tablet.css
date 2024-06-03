@@ -29,10 +29,29 @@
         margin-right: 76px;
     }
 
-        .menu-nav-btn {
+    .menu-nav-btn {
             display: none;
             
-        }
+    }
+
+    .advantage-list {
+
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 72px 24px;
+    }
+
+         .advantage-item {
+            max-width: 356px;
+    }
+
+    .advantage-subtitle {
+        text-align: start;
+    }
+    
+
+
+    
 
 
 

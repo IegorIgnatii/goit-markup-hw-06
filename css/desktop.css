@@ -23,4 +23,13 @@
     .navig {
         width: auto;
     }
+
+    .advantage-list {
+        gap: 24px;
+        flex-wrap: nowrap;
+    }
+
+    .advantage-item {
+        width: 264px;
+    }
 }
