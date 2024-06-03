@@ -1076,6 +1076,11 @@ input::placeholder {
 
 .address-mobile-item {}
 
-.address-mobile-link {}
+.address-mobile-link {
+    color: #2e2f42;
+}
 
+.address-mobile-link:hover {
+    color: #404bbf
+}
 /* #endregion modal */
