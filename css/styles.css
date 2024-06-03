@@ -1,5 +1,5 @@
 /* #region base */
-
+/* 
 body {
     font-family: "Roboto", sans-serif;
     background-color: #ffffff;
@@ -68,7 +68,7 @@ padding-bottom: 120px;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-}
+} */
 
 .hidden{
     display: none;
