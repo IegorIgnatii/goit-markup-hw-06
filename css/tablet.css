@@ -49,6 +49,18 @@
         text-align: start;
     }
     
+    .team-list {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 64px 24px;
+        margin: 0;
+        justify-content: center;
+    }
+
+
+
+
+}
 
 
     
@@ -58,4 +70,4 @@
 
 
 
-}
+

@@ -32,4 +32,16 @@
     .advantage-item {
         width: 264px;
     }
+
+     
+    .team-list {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        gap: 24px;
+    }
+
+
+
+    
 }
