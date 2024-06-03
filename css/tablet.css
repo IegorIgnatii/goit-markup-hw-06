@@ -2,8 +2,41 @@
     .container {
         width: 768px;
     }
+
     .section {
         padding-top: 90px;
         padding-bottom: 90px;
     }
+
+    .nav-list,
+    .address-list{
+        display: flex;
+    }
+
+    .address-list{
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .address-link{
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 1.16667;
+        letter-spacing: 0.04em;
+    }
+
+    .logo-link {
+        margin-right: 76px;
+    }
+
+        .menu-nav-btn {
+            display: none;
+            
+        }
+
+
+
+
+
+
 }
