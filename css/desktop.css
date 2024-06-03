@@ -46,6 +46,21 @@
         gap: 48px 24px;
     }
     
+    .footer {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .footer .container {
+        width: 1158px;
+    
+        justify-content: flex-start;
+        align-items: baseline;
+        gap: 0;
+    }
+
+    .text-footer {
+               margin-bottom: 0;
+    }
     
 
 
