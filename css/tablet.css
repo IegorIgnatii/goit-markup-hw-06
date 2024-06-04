@@ -84,6 +84,17 @@
         display: inline-block;
     }
 
+    .social-text {
+        display: inline-block;
+    }
+
+    .title-text {
+        display: block;
+    }
+
+    .subscribe-input {
+        display: inline-block;
+    }
 
 }
 
