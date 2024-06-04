@@ -73,7 +73,16 @@
 
     .text-footer {
         max-width: 264px;}
+
+    .info {
+        margin-right: 120px
+    }
+    .subscribe {
+        margin-left: 60px;}
     
+    .footer-link {
+        display: inline-block;
+    }
 
 
 }
